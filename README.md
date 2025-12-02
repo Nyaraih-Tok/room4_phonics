@@ -1,9 +1,10 @@
-# ui_profile
+# modified phonics ui_profile
 
-A new Flutter project.
+Children's learning app
 
 ## Phonics profile ui
 
 This project is a uses flutter for client side and firebase as backend.
+
 
 
